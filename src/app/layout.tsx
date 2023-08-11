@@ -1,6 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+//@react server use-client
 
 const inter = Inter({ subsets: ['latin'] })
 
